@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cppstudy.dir/objects.a
+D:\PROGRA~2\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\cppstudy.dir/objects.a @CMakeFiles\cppstudy.dir\objects1.rsp
+D:\PROGRA~2\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\cppstudy.dir/objects.a -Wl,--no-whole-archive -o cppstudy.exe -Wl,--out-implib,libcppstudy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cppstudy.dir\linklibs.rsp
