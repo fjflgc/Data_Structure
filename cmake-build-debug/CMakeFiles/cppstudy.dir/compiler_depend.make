@@ -138,7 +138,8 @@ CMakeFiles/cppstudy.dir/main.cpp.obj: ../main.cpp \
   D:/Program\ Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
   ../算法/bubbleSort.h \
   ../算法/selectionSort.h \
-  ../算法/insertionSort.h
+  ../算法/insertionSort.h \
+  ../算法/shellSort.h
 
 
 D:/Program\ Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/new:
@@ -416,3 +417,5 @@ D:/Program\ Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x8
 ../算法/selectionSort.h:
 
 ../算法/bubbleSort.h:
+
+../算法/shellSort.h:
