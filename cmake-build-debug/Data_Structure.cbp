@@ -98,6 +98,9 @@
 		<Unit filename="D:/CLionProjects/Data_Structure/算法/bubbleSort.h">
 			<Option target="cppstudy"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/Data_Structure/算法/insertionSort.h">
+			<Option target="cppstudy"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/Data_Structure/算法/selectionSort.h">
 			<Option target="cppstudy"/>
 		</Unit>

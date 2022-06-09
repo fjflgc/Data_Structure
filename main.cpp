@@ -3,6 +3,8 @@
 #include <vector>
 #include "Ëã·¨/bubbleSort.h"
 #include "Ëã·¨/selectionSort.h"
+#include "Ëã·¨/insertionSort.h"
+
 using namespace std;
 
 int main() {
@@ -13,8 +15,13 @@ int main() {
 //    for (auto e: ivec)
 //        cout << e << " ";
 
-    cout << "selectionSort" << endl;
-    selectionSort(ivec);
+//    cout << "selectionSort" << endl;
+//    selectionSort(ivec);
+//    for (auto e: ivec)
+//        cout << e << " ";
+
+    cout << "insertionSort" << endl;
+    insertionSort(ivec);
     for (auto e: ivec)
         cout << e << " ";
 
