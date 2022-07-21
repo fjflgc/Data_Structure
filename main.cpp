@@ -6,6 +6,8 @@
 #include "算法/insertionSort.h"
 #include "算法/shellSort.h"
 #include "树和二叉树/huffmanTree.h"
+#include "图/AMGraph.h"
+#include "图/ATGraph.h"
 
 using namespace std;
 
@@ -21,24 +23,21 @@ int main() {
 
 //    cout << "bubbleSort" << endl;
 //    bubbleSort(ivec);
-//    for (auto e: ivec)
-//        cout << e << " ";
 
 //    cout << "selectionSort" << endl;
 //    selectionSort(ivec);
-//    for (auto e: ivec)
-//        cout << e << " ";
 
 //    cout << "insertionSort" << endl;
 //    insertionSort(ivec);
+
+//    cout << "shellSort" << endl;
+//    shellSort(ivec);
+
 //    for (auto e: ivec)
 //        cout << e << " ";
 
-    cout << "shellSort" << endl;
-    shellSort(ivec);
-    for (auto e: ivec)
-        cout << e << " ";
-
+    ATGraph G=ATGraph(3,3);
+    G.CreateATGraph();
     return 0;
 }
 
