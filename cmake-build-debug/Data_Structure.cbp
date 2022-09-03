@@ -106,6 +106,9 @@
 		<Unit filename="D:/CLionProjects/Data_Structure/树和二叉树/binaryTree.h">
 			<Option target="cppstudy"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/Data_Structure/树和二叉树/heap.h">
+			<Option target="cppstudy"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/Data_Structure/树和二叉树/huffmanTree.h">
 			<Option target="cppstudy"/>
 		</Unit>
